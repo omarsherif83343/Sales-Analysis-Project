@@ -72,7 +72,7 @@ Aspiring Data Analyst
 
 ## Revenue by Product
 
-![Revenue Chart](screenshots/revenue_chart.png)
+![Revenue Chart](screenshots/revenue_charts.png)
 
 ## Top 5 Selling Products
 
