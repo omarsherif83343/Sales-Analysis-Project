@@ -68,3 +68,12 @@ Contains sales transactions:
 
 Omar Sherif
 Aspiring Data Analyst
+
+
+## Revenue by Product
+
+![Revenue Chart](screenshots/revenue_chart.png)
+
+## Top 5 Selling Products
+
+![Top Products](screenshots/top_products.png)
